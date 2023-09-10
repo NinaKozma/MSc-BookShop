@@ -1,0 +1,33 @@
+SonarQube plugins:
+  - SonarPython 1.16.0.4432 (python)
+  - SonarCSS 1.1.1.1010 (cssfamily)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.6.0.719 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.17.0.9346 (csharp)
+  - SonarJava 5.14.0.18788 (java)
+  - SonarHTML 3.2.0.2082 (web)
+  - Git 1.9.1.1834 (scmgit)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SonarPHP 3.2.0.4868 (php)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.17.0.9346 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AYXWEnfnKSDNzR7TV8-x
+  - sonar.core.startTime=2023-09-05T15:18:17+0200
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.projectBaseDir=C:\Users\Lenovo\Desktop\Faks\Diplomski rad - kod
+  - sonar.projectKey=backendERP
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.7.0.2747
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.working.directory=C:\Users\Lenovo\Desktop\Faks\Diplomski rad - kod\.scannerwork
